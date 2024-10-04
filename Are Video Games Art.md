@@ -51,3 +51,9 @@ Does Hamlet cease to be art because the audience is encouraged to side with Haml
 We should not confine the audience of video games to players, since often games are played with an audience.
 
 Although playing video games usually involves a smaller audience-to-competitor ratio, there is no reason why the audience watching someone play a game must be smaller than the audience of non-competitors at a poetry slam.
+
+We should not ignore the aesthetic experience of the performers of art works. The video game player can plausibly be considered a performer in a larger video game performance.
+
+We must ask, does not even the amateur musician have aesthetic or artistic experiences?
+
+
